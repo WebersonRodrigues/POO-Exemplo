@@ -1,0 +1,14 @@
+ O que é POO?
+
+ 4 Pilares:
+
+ 1° Abstração:
+
+ 2° Encapsulamento:
+ O Encapsulamento é uma técnica que vai adicionar mais segurança
+ a nossa aplicação, em programação a objetos, nos podemos e devemos esconder
+ as propriedades/atributos criando metodos, fazendo assim estamos criando uma caixa preta.
+
+ 3° Herança:
+
+ 4° Polimorfismo:
